@@ -1,6 +1,19 @@
 <h2>Ajaba Labs</h2>
 Ajaba Labs is a place where everyone can engage in research and development process by working on problems they care about. It gives opportunity to people from developing countries to try themselves as researchers and engineers working alongside more experienced colleagues. By focusing on solving important problems and learning from each other Ajaba Labs wishes to build an ecosystem for learning and problem solving.
 
+<h3>Ajaba Projects in Winter 2019</h3>
+<h4>Ajaba Farming</h4>
+<h5>Aim of the Project</h5>
+To design a soil type classification system based on a soil's photograph.
+
+<h5>Team Members</h5>
+<ul>
+<li>Bakdaulet Kynabai</li>
+<li>Alibek Orynbassar</li>
+<li>Birzhan Moldagaliyev</li>
+</ul>
+
+
 <h3>Ajaba Projects in Spring 2019</h3>
 <h4>Ajaba Video</h4>
 <h5>Aim of the Project</h5>
